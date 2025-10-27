@@ -1,0 +1,15 @@
+table tr:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+  }
+  
+  img {
+    border-radius: 8px;
+  }
+  
+  .custom-bg {
+    margin-bottom: 20px;
+    background-color: #0b99a8; 
+    color: black; 
+    padding: 10px;
+  }
